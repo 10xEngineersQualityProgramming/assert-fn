@@ -11,5 +11,10 @@
   "dependencies": {
     "none": "^1.0.0",
     "vanilla-javascript": "^1.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/assert"
+  },
+  "homepage": "https://github.com/tj-commits/assert"
 }
